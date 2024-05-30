@@ -17,7 +17,8 @@
 <a><img alt="iOS" align="left" width="20px" src="https://github.com/Zalezny/Zalezny/assets/65240240/764cecda-4e92-4102-8b71-fc1f2aa4239f"></a>
 <a><img alt="C++" align="left" width="26px" src="https://github.com/Zalezny/Zalezny/assets/65240240/74dab5ea-7fd9-40a3-ae76-410a165f65fb"></a>
 <a><img alt="C" align="left" width="26px" src="https://github.com/Zalezny/Zalezny/assets/65240240/0393ad80-3922-4323-9e6b-5d02cd49eb8c"></a>
-
+<br/>
+- 🔭 In my spare time, I develop and manage application for the <a href="https://katya-rg.eu/">Katya RG Leotards</a> company.
 
 
 <!--
